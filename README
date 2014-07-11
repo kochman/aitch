@@ -1,0 +1,7 @@
+aitch is a very simple Python HTTP server.
+
+See exmaple.py for the API. That's all the documentation for now.
+
+aitch is not a full HTTP/1.1 server, and it doesn't conform to RFC 2616. You should probably not use it for anything.
+
+But it is fun to work on.
